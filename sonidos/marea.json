@@ -1,4 +1,6 @@
 [
-  {"url":"sonidos/02_oido.MP3","type":"audio","bank":"sonidos","n":0}
-
+  {"url":"casino.wav","type":"audio","bank":"sonidos","n":0},
+  {"url":"ceramica.wav","type":"audio","bank":"sonidos","n":0},
+  {"url":"coin.wav","type":"audio","bank":"sonidos","n":0},
+  {"url":"viento.wav","type":"audio","bank":"sonidos","n":0},
 ]

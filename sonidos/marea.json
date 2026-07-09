@@ -1,10 +1,11 @@
 [
-  {"url":"01_casino.wav","type":"audio","bank":"casino","n":0},
+  {"url":"01_walkie talkie.wav","type":"audio","bank":"walkie talkie","n":0},
   {"url":"02_ceramica.wav","type":"audio","bank":"ceramica","n":0},
   {"url":"03_coin.wav","type":"audio","bank":"coin","n":0},
   {"url":"04_viento.wav","type":"audio","bank":"viento","n":0},
   {"url":"05_turbina.flac","type":"audio","bank":"turbina","n":0},
   {"url":"06_pum.wav","type":"audio","bank":"pum","n":0},
   {"url":"07_caida.wav","type":"audio","bank":"caida","n":0},
-  {"url":"08_llamada.wav","type":"audio","bank":"llamada","n":0}
+  {"url":"08_llamada.wav","type":"audio","bank":"llamada","n":0},
+  {"url":"09_copa.wav","type":"audio","bank":"copa","n":0}
 ]

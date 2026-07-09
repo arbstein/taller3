@@ -1,6 +1,6 @@
 [
-  {"url":"casino.wav","type":"audio","bank":"sonidos","n":0},
-  {"url":"ceramica.wav","type":"audio","bank":"sonidos","n":0},
-  {"url":"coin.wav","type":"audio","bank":"sonidos","n":0},
-  {"url":"viento.wav","type":"audio","bank":"sonidos","n":0},
+  {"url":"01_casino.wav","type":"audio","bank":"casino","n":0},
+  {"url":"02_ceramica.wav","type":"audio","bank":"ceramica","n":0},
+  {"url":"03_coin.wav","type":"audio","bank":"coin","n":0},
+  {"url":"04_viento.wav","type":"audio","bank":"viento","n":0},
 ]
